@@ -19,7 +19,7 @@ I am an engineer with almost **10 years of experience** in both numerical simula
   - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
 
 - Due to confidentiality, I am not allowed provide information about my corporate project. However, the topics are given below.
-* ** Computer Vision for Level-4 Autonomous Driving**
+* **Computer Vision for Level-4 Autonomous Driving**
 * **Data-Processing pipeline for Level-4 Autonomous Driving**
 * **Predictive Quality using AI/ML**
 * **Predictive Maintenance using AI/ML**
