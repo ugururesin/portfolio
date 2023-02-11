@@ -51,12 +51,12 @@ Please see my certifications (those higher than 5 hours!) at  [Certificates](htt
 
 ## Featured Projects
 
-- **Project 1: [AITOC: Artificial Intelligence supported Tool Chain in Manufacturing Engineering]**(https://aitoc.eu/)
-  - **Description:** AIToC is an ITEA project with the goal to develop an integrated toolchain for manufacturing engineering that supports decision-making from a very early phase on.
+- **Project 1: AITOC: Artificial Intelligence supported Tool Chain in Manufacturing Engineering** https://aitoc.eu/
+  - **Description:** The goal to develop an integrated toolchain for manufacturing engineering that supports decision-making from a very early phase on.
   - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
   
-- **Project 2: [FLEXIndustries]**(https://flexindustries.eu/)
-  - **Description:** FLEXIndustries is a European project which promotes the most suitable energy efficiency measures and process flexibility methods for energy intensive industries worldwide.
+- **Project 2: FLEXIndustries** https://flexindustries.eu/
+  - **Description:** An European project which promotes the most suitable energy efficiency measures and process flexibility methods for energy intensive industries worldwide.
   - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
 
 - Due to confidentiality, I am not allowed provide information about my corporate project. However, the topics are given below.
