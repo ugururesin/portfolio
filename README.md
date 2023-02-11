@@ -42,5 +42,5 @@ I am an engineer with almost **10 years of experience** in both numerical simula
 
 ## Contact Me
 
-If you have any questions or would like to work together, feel free to reach out to me via email at [uresin.ugur@gmail.com] or my linkedin profile at [https://www.linkedin.com/in/uresinugur/]
+If you have any questions or would like to work together, feel free to reach out to me via email at [uresin.ugur@gmail.com] or my linkedin profile at [https://www.linkedin.com/in/uresinugur/].  
 I would love to hear from you!
