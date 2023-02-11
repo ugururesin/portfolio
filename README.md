@@ -1,6 +1,6 @@
 # Portfolio by Ugur Uresin
 Data Science Professional  
-PhD in the filed of Digital Twin   
+PhD in the field of Digital Twin   
 
 Welcome to my portfolio repository! This is where I showcase my projects and skills as a developer and engineer.
 
@@ -10,32 +10,37 @@ I am an engineer with almost 10 years of experience in both numerical simulation
 
 ## Featured Projects
 
-- Project 1: [Project Name](Project URL)
-  - Description: A brief overview of the project and what it does.
-  - Technologies Used: List of technologies, frameworks, and libraries used.
+- **Project 1: [AITOC: Artificial Intelligence supported Tool Chain in Manufacturing Engineering]**(https://aitoc.eu/)
+  - **Description:** AIToC is an ITEA project with the goal to develop an integrated toolchain for manufacturing engineering that supports decision-making from a very early phase on.
+  - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
   
-- Project 2: [Project Name](Project URL)
-  - Description: A brief overview of the project and what it does.
-  - Technologies Used: List of technologies, frameworks, and libraries used.
+- **Project 2: [Project Name]**(https://flexindustries.eu/)
+  - **Description:** FLEXIndustries is a European project which promotes the most suitable energy efficiency measures and process flexibility methods for energy intensive industries worldwide.
+  - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
 
-and so on...
+- Due to confidentiality, I am not allowed provide information about my corporate project. However, the topics are given below.
+* ** Computer Vision for Level-4 Autonomous Driving**
+* **Data-Processing pipeline for Level-4 Autonomous Driving**
+* **Predictive Quality using AI/ML**
+* **Predictive Maintenance using AI/ML**
+* **Real-time optimization using AI/ML**
+* **Real-time Digital-Twin model development using AI/ML and physics-based modeling**
 
 ## Skills
 
 - Numerical Simulation
 - Finite Element Analysis
 - Data Analysis
-- Full-stack Development
-- Web Applications
-- Front-end Development (HTML, CSS, JavaScript)
-- Back-end Development (Node.js, Express, MongoDB)
 - Machine Learning
 - Deep Learning
 - Big Data
 - Industry 4.0
 - Digital Twins
 - Software Development
+- Project Management
+- Team Leadership
 
 ## Contact Me
 
-If you have any questions or would like to work together, feel free to reach out to me via email at [email address]. I would love to hear from you!
+If you have any questions or would like to work together, feel free to reach out to me via email at [uresin.ugur@gmail.com] or my linkedin profile at [https://www.linkedin.com/in/uresinugur/]
+I would love to hear from you!
