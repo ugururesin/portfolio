@@ -6,7 +6,7 @@ Welcome to my portfolio repository! This is where I showcase my projects and ski
 
 ## About Me
 
-I am an engineer with almost 10 years of experience in both numerical simulation and machine learning. In the first 5 years of my career, I studied and worked on numerical simulation, finite element analysis, and data analysis. In the last 5 years, I have been studying and working on machine learning, deep learning, big data, industry 4.0, digital twins, and software development in Turkey's largest Automotive company. 
+I am an engineer with almost **10 years of experience** in both numerical simulation and machine learning. In the first 5 years of my career, I studied and worked on **numerical simulation, finite element analysis, and data analysis**. In the last 5 years, I have been studying and working on **machine learning, deep learning, big data, industry 4.0, digital twins, and software development** in Turkey's largest Automotive company. 
 
 ## Featured Projects
 
@@ -14,7 +14,7 @@ I am an engineer with almost 10 years of experience in both numerical simulation
   - **Description:** AIToC is an ITEA project with the goal to develop an integrated toolchain for manufacturing engineering that supports decision-making from a very early phase on.
   - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
   
-- **Project 2: [Project Name]**(https://flexindustries.eu/)
+- **Project 2: [FLEXIndustries]**(https://flexindustries.eu/)
   - **Description:** FLEXIndustries is a European project which promotes the most suitable energy efficiency measures and process flexibility methods for energy intensive industries worldwide.
   - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
 
