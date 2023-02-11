@@ -6,16 +6,6 @@ Welcome to my portfolio repository! This is where I showcase my projects and ski
 
 ## About Me
 
-I am an engineer with almost **10 years of experience** in both numerical simulation and machine learning. In the first 5 years of my career, I studied and worked on **numerical simulation, finite element analysis, and data analysis**. In the last 5 years, I have been studying and working on **machine learning, deep learning, big data, industry 4.0, digital twins, and software development** in Turkey's largest Automotive company. 
-
-- 🔭 I’m currently working on [FORD OTOSAN](https://www.fordotosan.com.tr/en)
-- 🌱 I’m currently pursuing my PhD
-- 👯 I’m looking to collaborate on **Digital Twin Research**
-- 🤔 I’m looking for help with **AI at Scale**
-- 💬 Ask me about **Digital Twins and Industrial AI**
-- 📫 How to reach me: uresin.ugur@gmail.com
-- ⚡ Fun fact: I am still a student since 1996!
--->
 <h3 title="hehehe"> Hey 👋, I'm Ugur!</h3>
 
 <a href="https://www.linkedin.com/in/uresinugur/">
@@ -29,6 +19,16 @@ I am an engineer with almost **10 years of experience** in both numerical simula
 <br />
 
 **AI/ML Team Leader in Automotive Industry** 🚀 from Istanbul, Turkey
+
+Have **10 years of experience** in both numerical simulation and machine learning. In the first 5 years of my career, I studied and worked on **numerical simulation, finite element analysis, and data analysis**. In the last 5 years, I have been studying and working on **machine learning, deep learning, big data, industry 4.0, digital twins, and software development** in Turkey's largest Automotive company. 
+
+- 🔭 I’m currently working on [FORD OTOSAN](https://www.fordotosan.com.tr/en)
+- 🌱 I’m currently pursuing my PhD
+- 👯 I’m looking to collaborate on **Digital Twin Research**
+- 🤔 I’m looking for help with **AI at Scale**
+- 💬 Ask me about **Digital Twins and Industrial AI**
+- 📫 How to reach me: uresin.ugur@gmail.com
+- ⚡ Fun fact: I am still a student since 1996!
 
 
 **Languages and Tools:**  
