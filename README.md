@@ -8,6 +8,9 @@ Welcome to my portfolio repository! This is where I showcase my projects and ski
 
 I am an engineer with almost **10 years of experience** in both numerical simulation and machine learning. In the first 5 years of my career, I studied and worked on **numerical simulation, finite element analysis, and data analysis**. In the last 5 years, I have been studying and working on **machine learning, deep learning, big data, industry 4.0, digital twins, and software development** in Turkey's largest Automotive company. 
 
+## Certificates
+Please see my certifications (those higher than 5 hours!) at  [Certificates](https://github.com/ugururesin/portfolio/certificates.md)
+
 ## Featured Projects
 
 - **Project 1: [AITOC: Artificial Intelligence supported Tool Chain in Manufacturing Engineering]**(https://aitoc.eu/)
