@@ -59,13 +59,13 @@ Please see my certifications (those higher than 5 hours!) at  [Certificates](htt
   - **Description:** An European project which promotes the most suitable energy efficiency measures and process flexibility methods for energy intensive industries worldwide.
   - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
 
-- Due to confidentiality, I am not allowed provide information about my corporate project. However, the topics are given below.
-* **Computer Vision for Level-4 Autonomous Driving**
-* **Data-Processing pipeline for Level-4 Autonomous Driving**
-* **Predictive Quality using AI/ML**
-* **Predictive Maintenance using AI/ML**
-* **Real-time optimization using AI/ML**
-* **Real-time Digital-Twin model development using AI/ML and physics-based modeling**
+- **My corporate projects** (Only topics are given due to corporate confidentiality!)
+	* **Computer Vision for Level-4 Autonomous Driving**
+	* **Data-Processing pipeline for Level-4 Autonomous Driving**
+	* **Predictive Quality using AI/ML**
+	* **Predictive Maintenance using AI/ML**
+	* **Real-time optimization using AI/ML**
+	* **Real-time Digital-Twin model development using AI/ML and physics-based modeling**
 
 ## Skills
 
