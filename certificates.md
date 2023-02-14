@@ -15,10 +15,10 @@ Here are some of my certifications to showcase my continuous learning journey:
 ![Coursera DeepLearning 5 Courses](certifications/2020_12_20_Coursera_DeepLearning_5_Courses.jpg)
 
 ### 2020_12_30 Coursera DeepLearning TF 4 Courses
-![Coursera DeepLearning TF 4 Courses](certifications/2020_12_30_Coursera-DeepLearning_TF_4_Courses.jpg)
+![Coursera DeepLearning TF_4 Courses](certifications/2020_12_30_Coursera - DeepLearning_TF_4_Courses.jpg)
 
 ### 2020_12_31 Coursera DeepLearning with PyTorch
-![Coursera DeepLearning with PyTorch](certifications/2020_12_31_Coursera-DeepLearning_with_PyTorch.jpg)
+![Coursera DeepLearning with PyTorch](certifications/2020_12_31_Coursera - DeepLearning with PyTorch.jpg)
 
 ### 2020_09_19 Udacity Self Driving
 ![Udacity Self Driving](certifications/2020_09_19_Udacity_Self_Driving.jpg)
