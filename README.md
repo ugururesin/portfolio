@@ -65,12 +65,11 @@ Please see my certifications (those higher than 5 hours!) at  [Certificates](htt
 
 
 - **My corporate projects** (Only topics are given due to corporate confidentiality!)
-	* **Computer Vision for Level-4 Autonomous Driving**
-	* **Data-Processing pipeline for Level-4 Autonomous Driving**
 	* **Predictive Quality using AI/ML**
 	* **Predictive Maintenance using AI/ML**
-	* **Real-time optimization using AI/ML**
+	* **Real-time Optimization using AI/ML**
 	* **Real-time Digital-Twin model development using AI/ML and physics-based modeling**
+	* **Data-Processing pipeline for Level-4 Autonomous Driving**
 
 ## Skills
 
