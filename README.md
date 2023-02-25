@@ -2,7 +2,7 @@
 Data Science Professional  
 PhD in the field of Digital Twin   
 
-Welcome to my portfolio repository! This is where I showcase my projects and skills as a developer and engineer.
+Welcome to my portfolio repository! This is where I showcase my projects and skills as a developer, engineer and leader!
 
 ## About Me
 
