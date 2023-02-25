@@ -50,14 +50,19 @@ Have **10 years of experience** in both numerical simulation and machine learnin
 Please see my certifications (those higher than 5 hours!) at  [Certificates](https://github.com/ugururesin/portfolio/blob/main/certificates.md)
 
 ## Featured Projects
+- **Project 1: HiCONNECTS (Heterogeneous Integration for Connectivity and Sustainability)** https://flexindustries.eu/
+  - **Description:** An European Horizon project to transform the central cloud platform into decentralized platforms with **edge cloud computing** in a sustainable, energy efficient manner.
+  - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
 
-- **Project 1: AITOC: Artificial Intelligence supported Tool Chain in Manufacturing Engineering** https://aitoc.eu/
-  - **Description:** The goal to develop an integrated toolchain for manufacturing engineering that supports decision-making from a very early phase on.
+- **Project 2: FLEXIndustries** https://flexindustries.eu/
+  - **Description:** An European Horizon project which promotes the most suitable energy efficiency measures and process **flexibility methods** for energy intensive industries using **Digital Twins**.
+  - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
+
+- **Project 3: AITOC: Artificial Intelligence supported Tool Chain in Manufacturing Engineering** https://aitoc.eu/
+  - **Description:** An ITEA project to develop an integrated and **AI supported software chain** for manufacturing engineering that supports decision-making from a very early phase on.
   - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
   
-- **Project 2: FLEXIndustries** https://flexindustries.eu/
-  - **Description:** An European project which promotes the most suitable energy efficiency measures and process flexibility methods for energy intensive industries worldwide.
-  - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
+
 
 - **My corporate projects** (Only topics are given due to corporate confidentiality!)
 	* **Computer Vision for Level-4 Autonomous Driving**
