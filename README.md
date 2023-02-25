@@ -69,7 +69,8 @@ Please see my certifications (those higher than 5 hours!) at  [Certificates](htt
 	* **Predictive Maintenance using AI/ML**
 	* **Real-time Optimization using AI/ML**
 	* **Real-time Digital-Twin model development using AI/ML and physics-based modeling**
-	* **Data-Processing pipeline for Level-4 Autonomous Driving**
+	* **Data-Processing pipeline for Level-4 Autonomous Vehicle Development**
+	* **Data-Processing pipeline for Finite Element Analysis post-processor**
 
 ## Skills
 
