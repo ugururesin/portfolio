@@ -3,7 +3,7 @@
 Here are some of my certifications to showcase my continuous learning journey:
 
 ### 2023/01/21 Google Project Management Foundations
-![Project Management Foundations](certifications/(2023_01_21_Google_PM_Mod1.jpg)
+![Project Management Foundations](certifications/2023_01_21_Google_PM_Mod1.jpg)
 
 ### 2022/12/20 DataCamp Data Scientist
 ![DataCamp Data Scientist](certifications/2022_12_20_DataCamp_Data_Scientist.jpg)
