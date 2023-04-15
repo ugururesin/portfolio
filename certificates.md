@@ -29,10 +29,10 @@ Here are some of my certifications to showcase my continuous learning journey:
 ### 2022/04/15 Udemy Software Engineering
 ![Udemy Software Engineering](certifications/2022_04_15_Udemy_SE.jpg)
 
-### 2020/12/20 Coursera DeepLearning 5 Courses
+### 2020/12/20 Coursera DeepLearning (5 Courses)
 ![Coursera DeepLearning 5 Courses](certifications/2020_12_20_Coursera_DeepLearning_5_Courses.jpg)
 
-### 2020/12/30 Coursera DeepLearning TF 4 Courses
+### 2020/12/30 Coursera DeepLearning TensorFlow (4 Courses)
 ![Coursera DeepLearning TF_4 Courses](certifications/2020_12_30_Coursera-DeepLearning_TF_4_Courses.jpg)
 
 ### 2020/12/31 Coursera DeepLearning with PyTorch
