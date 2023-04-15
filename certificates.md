@@ -2,6 +2,9 @@
 
 Here are some of my certifications to showcase my continuous learning journey:
 
+### 2023/04/15 Google Project Management (6 Courses - 260 Hours)
+![Project Management Foundations](certifications/2023_04_15_Google_PM.jpg)  
+
 ### 2023/04/08 Google Project Management: Agile
 ![Project Management Foundations](certifications/2023_01_21_Google_PM_Mod5.jpg)
 
