@@ -21,15 +21,17 @@ Here, I showcase my projects and skills as a developer, engineer and leader!
 
 **AI/ML Team Leader in Automotive Industry** 🚀 from Istanbul, Turkey
 
-Have **10 years of experience** in both numerical simulation and machine learning. In the first 5 years of my career, I studied and worked on **numerical simulation, finite element analysis, and data analysis**. In the last 5 years, I have been studying and working on **machine learning, deep learning, big data, industry 4.0, digital twins, and software development** in Turkey's largest Automotive company. 
+Have **10+ years of total experience** in engineering.  
+In the first 5 years of my career, I studied and worked on **numerical simulation, finite element analysis, and data analysis**.  
+For the last 5+ years, I have been studying and working on **AI/ML, Data-Analysis, Industry 4.0 and Digital Twins** in Turkey's largest Automotive company. 
 
 - 🔭 I’m currently working on [FORD OTOSAN](https://www.fordotosan.com.tr/en)
 - 🌱 I’m currently pursuing my PhD
 - 👯 I’m looking to collaborate on **Digital Twin Research**
 - 🤔 I’m looking for help with **AI at Scale**
-- 💬 Ask me about **Digital Twins and Industrial AI**
+- 💬 Ask me about **Industrial AI and Digital Twins**
 - 📫 How to reach me: uresin.ugur@gmail.com
-- ⚡ Fun fact: I am still a student since 1996!
+- ⚡ Fun fact: I am **still** a student since 1996!
 
 
 **Languages and Tools:**  
@@ -61,8 +63,6 @@ Please see my certifications (those higher than 5 hours!) at  [Certificates](htt
   - **Description:** An ITEA project to develop an integrated and **AI supported software chain** for manufacturing engineering that supports decision-making from a very early phase on.
   - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
   
-
-
 - **My corporate projects** (Only topics are given due to corporate confidentiality!)
 	* **Predictive Quality using AI/ML**
 	* **Predictive Maintenance using AI/ML**
@@ -72,18 +72,19 @@ Please see my certifications (those higher than 5 hours!) at  [Certificates](htt
 	* **Data-Processing pipeline for Finite Element Analysis post-processor**
 
 ## Skills
-
-- Numerical Simulation
-- Finite Element Analysis
-- Data Analysis
-- Machine Learning
-- Deep Learning
-- Big Data
+- Product Owner
+- Scrum
+- Team Leadership
+- Project Management
 - Industry 4.0
 - Digital Twins
 - Software Development
-- Project Management
-- Team Leadership
+- Big Data
+- Deep Learning
+- Machine Learning
+- Data Analysis
+- Simulation
+- Finite Element Analysis
 
 ## Contact Me
 
