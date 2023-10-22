@@ -1,5 +1,5 @@
 # Portfolio by Ugur Uresin
-Data Science Professional  
+Data Science Professional, Product Owner  
 PhD in the field of Digital Twin   
 
 Welcome to my portfolio repository!  
