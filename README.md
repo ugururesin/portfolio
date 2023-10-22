@@ -19,7 +19,7 @@ Here, I showcase my projects and skills as a developer, engineer and leader!
 <br />
 <br />
 
-**AI/ML Team Leader in Automotive Industry** 🚀 from Istanbul, Turkey
+**Analytics Product Owner in Automotive Industry** 🚀 from Istanbul, Turkey
 
 Have **10+ years of total experience** in engineering.  
 In the first 5 years of my career, I studied and worked on **numerical simulation, finite element analysis, and data analysis**.  
