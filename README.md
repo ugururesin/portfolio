@@ -22,8 +22,8 @@ Here, I showcase my projects and skills as a developer, engineer and leader!
 **Analytics Product Owner in Automotive Industry** 🚀 from Istanbul, Turkey
 
 Have **10+ years of total experience** in engineering.  
-In the first 5 years of my career, I studied and worked on **numerical simulation, finite element analysis, and data analysis**.  
-For the last 5+ years, I have been studying and working on **AI/ML, Data-Analysis, Industry 4.0 and Digital Twins** in Turkey's largest Automotive company. 
+In the first 5 years of my career, I worked on **numerical simulation, finite element analysis, and data analysis**.  
+For the last 5+ years, I have been working on **AI/ML, Data-Analysis, Industry 4.0 and Digital Twins** in Turkey's largest Automotive company. 
 
 - 🔭 I’m currently working on [FORD OTOSAN](https://www.fordotosan.com.tr/en)
 - 🌱 I’m currently pursuing my PhD
