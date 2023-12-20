@@ -2,6 +2,10 @@
 
 Here are some of my certifications to showcase my continuous learning journey:
 
+### 2023/12/18 AI Product Manager - Nanodegree
+![Project Management Foundations](certifications/2023_12_18_Udacity_AI_Product_Manager.jpg)  
+
+
 ### 2023/04/15 Google Project Management (6 Courses - 260 Hours)
 ![Project Management Foundations](certifications/2023_04_15_Google_PM.jpg)  
 
@@ -23,7 +27,7 @@ Here are some of my certifications to showcase my continuous learning journey:
 ### 2022/12/20 DataCamp Data Scientist
 ![DataCamp Data Scientist](certifications/2022_12_20_DataCamp_Data_Scientist.jpg)
 
-### 2022/03/28 Udacity Azure Machine Learning
+### 2022/03/28 Udacity Azure Machine Learning - Nanodegree
 ![Udacity Azure ML](certifications/2022_03_28_Udacity_AzureML.jpg)
 
 ### 2022/04/15 Udemy Software Engineering
@@ -38,10 +42,10 @@ Here are some of my certifications to showcase my continuous learning journey:
 ### 2020/12/31 Coursera DeepLearning with PyTorch
 ![Coursera DeepLearning with PyTorch](certifications/2020_12_31_Coursera-DeepLearning_with_PyTorch.jpg)
 
-### 2020/09/19 Udacity Self Driving
+### 2020/09/19 Udacity Self Driving - Nanodegree
 ![Udacity Self Driving](certifications/2020_09_19_Udacity_Self_Driving.jpg)
 
-### 2019/08/27 Udacity Data Analyst
+### 2019/08/27 Udacity Data Analyst - Nanodegree
 ![Udacity Data Analyst](certifications/2019_08_27_Udacity_Data_Analyst.jpg)
 
 ### 2019/07/01 Udemy MachineLearning Python R
