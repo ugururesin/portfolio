@@ -1,4 +1,4 @@
-# Portfolio by Ugur Uresin
+# A Portfolio by Ugur Uresin
 Data Science Professional, Product Owner  
 PhD in the field of Digital Twin   
 
