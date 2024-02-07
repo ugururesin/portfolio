@@ -30,7 +30,7 @@ Here are some of my certifications to showcase my continuous learning journey:
 ### 2022/03/28 Udacity Azure Machine Learning - Nanodegree
 ![Udacity Azure ML](certifications/2022_03_28_Udacity_AzureML.jpg)
 
-### 2022/04/15 Udemy Software Engineering
+### 2022/04/15 Udemy Systems Engineering
 ![Udemy Software Engineering](certifications/2022_04_15_Udemy_SE.jpg)
 
 ### 2020/12/20 Coursera DeepLearning (5 Courses)
