@@ -31,7 +31,7 @@ For the last 5+ years, I have been working on **AI/ML, Data-Science and Digital 
 - 🤔 I’m looking for discussions **Generative-AI at Scale**
 - 💬 Ask me about **Industrial AI and Digital Twins**
 - 📫 How to reach me: uresin.ugur@gmail.com
-- ⚡ Fun fact: I am **still** a student since 1996!
+- ⚡ Fun fact: I studied Mechanical Engineering, Industrial Data Analytics & Engineering Management!
 
   
 **Languages and Tools:**  
