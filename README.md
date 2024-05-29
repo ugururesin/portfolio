@@ -23,7 +23,7 @@ Here, I showcase my projects and skills as a developer, engineer and leader!
 
 Have **10+ years of total experience** in engineering.  
 In the first 5 years of my career, I worked on **numerical simulation, finite element analysis, and data analysis**.  
-For the last 5+ years, I have been working on **AI/ML, Data-Science, Industry 4.0 and Digital Twins** in Europe's largest Commercial Vehicle company!
+For the last 5+ years, I have been working on **AI/ML, Data-Science and Digital Twins** in Europe's largest Commercial Vehicle company!
 
 - 🔭 I’m currently working on [FORD OTOSAN](https://www.fordotosan.com.tr/en)
 - 🌱 I’m currently pursuing my PhD
