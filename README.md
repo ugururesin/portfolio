@@ -28,7 +28,7 @@ For the last 5+ years, I have been working on **AI/ML, Data-Science, Industry 4.
 - 🔭 I’m currently working on [FORD OTOSAN](https://www.fordotosan.com.tr/en)
 - 🌱 I’m currently pursuing my PhD
 - 👯 I’m looking to collaborate on **Digital Twin Research**
-- 🤔 I’m looking for help with **AI at Scale**
+- 🤔 I’m looking for discussions **Generative-AI at Scale**
 - 💬 Ask me about **Industrial AI and Digital Twins**
 - 📫 How to reach me: uresin.ugur@gmail.com
 - ⚡ Fun fact: I am **still** a student since 1996!
