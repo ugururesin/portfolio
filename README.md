@@ -25,7 +25,7 @@ Have **10+ years of total experience** in engineering.
 In the first 5 years of my career, I worked on **numerical simulation, finite element analysis, and data analysis**.  
 For the last 5+ years, I have been working on **AI/ML, Data-Science and Digital Twins** in Europe's largest Commercial Vehicle company!
 
-- 🔭 I’m currently working on [FORD OTOSAN](https://www.fordotosan.com.tr/en)
+- 🔭 I’m currently working at [FORD OTOSAN](https://www.fordotosan.com.tr/en)
 - 🌱 I’m currently pursuing my PhD
 - 👯 I’m looking to collaborate on **Digital Twin Research**
 - 🤔 I’m looking for discussions **Generative-AI at Scale**
