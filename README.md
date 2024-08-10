@@ -49,7 +49,12 @@ For the last 5+ years, I have been working on **AI/ML, Data-Science and Digital 
 ## Certificates
 Please see my certifications (those higher than 5 hours!) at  [Certificates](https://github.com/ugururesin/portfolio/blob/main/certificates.md)
 
-## Featured Projects
+## Featured R&D Projects
+
+- **iBattMan (Intelligent Battery Management)** [Project Link](https://ibattman.eu/)
+  - **Description:** An European Horizon project to develop Smart, Connected and Secure Battery Management System Enhanced by Next-Generation Edge- and Cloud-Computing, Sensors and Interoperable Architecture
+  - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
+
 - **HiCONNECTS (Heterogeneous Integration for Connectivity and Sustainability)** [Project Link](https://www.hiconnects.org/)
   - **Description:** An European Horizon project to transform the central cloud platform into decentralized platforms with **edge cloud computing** in a sustainable, energy efficient manner.
   - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
@@ -61,8 +66,9 @@ Please see my certifications (those higher than 5 hours!) at  [Certificates](htt
 - **AITOC (Artificial Intelligence supported Tool Chain)** [Project Link](https://aitoc.eu/)
   - **Description:** An ITEA project to develop an integrated and **AI supported software chain** for manufacturing engineering that supports decision-making from a very early phase on.
   - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
-  
-- **My corporate projects** (Only topics are given due to corporate confidentiality!)
+
+## Featured Agile AI/Analytics Projects
+Only topics are given due to corporate confidentiality!
 	* **Predictive Quality using AI/ML**
 	* **Predictive Maintenance using AI/ML**
 	* **Real-time Optimization using AI/ML**
