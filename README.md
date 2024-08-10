@@ -1,5 +1,5 @@
 # A Portfolio by Ugur Uresin
-Data Analytics & AI Professional, Technical Product Owner  
+Data Analytics & AI Professional, Digital Product Owner  
 PhD in Industrial Data Analytcis
 
 Here, I showcase my projects and skills as a developer, engineer and leader!
