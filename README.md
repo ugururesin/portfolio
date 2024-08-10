@@ -68,13 +68,13 @@ Please see my certifications (those higher than 5 hours!) at  [Certificates](htt
   - **Technologies Used:** IoT/IIoT, Deep Learning, Data Analysis, Software Development
 
 ## Featured Agile AI/Analytics Projects
-Only topics are given due to corporate confidentiality!
-	* **Predictive Quality using AI/ML**
-	* **Predictive Maintenance using AI/ML**
-	* **Real-time Optimization using AI/ML**
-	* **Real-time Digital-Twin model development using AI/ML and physics-based modeling**
-	* **Data-Processing pipeline for Level-4 Autonomous Vehicle Development**
-	* **Data-Processing pipeline for Finite Element Analysis post-processor**
+Only topics are given due to corporate confidentiality!  
+	* **Predictive Quality using AI/ML**  
+	* **Predictive Maintenance using AI/ML**  
+	* **Real-time Optimization using AI/ML**  
+	* **Real-time Digital-Twin model development using AI/ML and physics-based modeling**  
+	* **Data-Processing pipeline for Level-4 Autonomous Vehicle Development**  
+	* **Data-Processing pipeline for Finite Element Analysis post-processor**  
 
 ## Skills
 - Product Owner
