@@ -2,12 +2,9 @@
 Data Analytics & AI Professional, Technical Product Owner  
 PhD in Industrial Data Analytcis
 
-Welcome to my portfolio repository!  
 Here, I showcase my projects and skills as a developer, engineer and leader!
 
 ## About Me
-
-<h3 title="hehehe"> Hey 👋, I'm Ugur!</h3>
 
 <a href="https://www.linkedin.com/in/uresinugur/">
   <img align="left" alt="Ugur's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
