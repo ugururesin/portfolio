@@ -1,6 +1,6 @@
 # A Portfolio by Ugur Uresin
 Data Analytics & AI Professional, Technical Product Owner  
-PhD in the field of Digital Twin   
+PhD in Industrial Data Analytcis
 
 Welcome to my portfolio repository!  
 Here, I showcase my projects and skills as a developer, engineer and leader!
