@@ -18,7 +18,7 @@ Here, I showcase my projects and skills as a developer, engineer and leader!
 
 **Digital Product Owner - Data Analytics & AI - Manufacturing & Operations** 🚀 in Istanbul
 
-Have **10+ years of total experience** in engineering.  
+**10+ years of total experience** in engineering.  
 In the first 5 years of my career, I worked on **numerical simulation, finite element analysis, and data analysis**.  
 For the last 5+ years, I have been working on **AI/ML, Data-Science and Digital Twins** in Europe's largest Commercial Vehicle company!
 
