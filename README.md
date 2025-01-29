@@ -19,7 +19,7 @@ Here, I showcase my projects and skills as a developer, engineer and leader!
 **Digital Product Owner - Data Analytics & AI - Manufacturing & Operations** 🚀 in Istanbul
 
 **10+ years of total experience**  
-For the last 5+ years, I have been working on **AI/ML, Data-Science and Digital Twins** in Europe's largest Commercial Vehicle company!
+For the last 5+ years, I have been working on **AI/ML, Data-Science and Digital Twins** in Europe's largest Commercial Vehicle company!  
 Formerly, I worked on **numerical simulation, finite element analysis, and data analysis**.  
 
 - 🔭 I’m currently working at [FORD OTOSAN](https://www.fordotosan.com.tr/en)
